@@ -20,7 +20,7 @@ each division.
 Open `assets/js/script.js` and change the first line:
 
 ```js
-const WHATSAPP_NUMBER = "919999999999"; // country code + number, no + or spaces
+const WHATSAPP_NUMBER = "919898698302"; // country code + number, no + or spaces
 ```
 
 This number powers **both** the floating WhatsApp button and the "Send Request on WhatsApp"
@@ -29,7 +29,7 @@ details pre-filled as a message.
 
 ### B. Your contact details
 In `index.html`, search for the **Contact** section and update:
-- Phone display (`+91 99999 99999`)
+- Phone display (`+91 98986 98302`)
 - Email (`contact@rkgroup.com`)
 - Location text
 
